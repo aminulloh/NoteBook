@@ -1,0 +1,6 @@
+# Don't track content of these folders
+learn/
+node_modules/
+OpenCV/
+
+.ipynb_checkpoints
